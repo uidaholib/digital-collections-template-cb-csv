@@ -35,6 +35,15 @@ function makeCard(obj) {
         thumbIcon = getIcon(obj.template,obj.format,"thumb");
     }
 
+    // add blur feature for sensitive objects
+    if(obj.sensitive){
+        var blur = 'blur';
+        var warning = '<p class="text-danger small">Warning: This image is of a graphic nature.</p>';
+    } else {
+        var blur = '';
+        var warning = '';
+    }
+
     // start card
     var card = '<div class="item col-lg-4 col-md-6 mb-2"><div class="card">';
     // top image for items with image
