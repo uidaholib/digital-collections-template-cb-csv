@@ -1,8 +1,8 @@
-# CollectionBuilder-CSV-compound-Template
+# digital-collections-template-cb-csv
 
 <https://www.lib.uidaho.edu/digital/>
 
-A highly customized version of [CollectionBuilder-CSV](https://github.com/CollectionBuilder/collectionbuilder-csv) used to generate University of Idaho Library Digital Collections that contain compound objects.
+A highly customized version of [CollectionBuilder-CSV](https://github.com/CollectionBuilder/collectionbuilder-csv) used to generate University of Idaho Library Digital Collections.
 
 The main branch represents our base collection template.
 Additional branches contain a variety of individual collections with customized metadata and features.
