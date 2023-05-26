@@ -10,24 +10,18 @@ credits: true
 
 {% include feature/jumbotron.html objectid="https://cdil.lib.uidaho.edu/images/palouse_sm.jpg" %} 
 
-{% include feature/nav-menu.html sections="About CollectionBuilder SA;About the About Page" %}
+{% include feature/nav-menu.html sections="About The Collection;About the Project" %}
 
-## About CollectionBuilder CSV
+## About The Collection
 
-This demo collection features items from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital/), and is build using [CollectionBuilder-CSV](https://github.com/CollectionBuilder/collectionbuilder-csv).
+The Hispanic Oral History Project consists of 22 interviews of Hispanic immigrants and descendants who lived in Idaho. The project was sponsored by the Idaho Humanities Council, the Ethnic Heritage Committee of the Idaho Centennial Commission, and the Idaho Commission on Hispanic Affairs. The interviews from this collection resulted in the publication of the book *Voces hispanas = Hispanic voices of Idaho*. The interviews include topics on the Mexican-American and Hispanic-American experience of the interviewees in Idaho, family life, racial discrimination, farming, life during the depression, and education. 
 
-CollectionBuilder-CSV is a "Stand Alone" template for creating digital collection and exhibit websites using Jekyll, given:
+{% include feature/image.html objectid="hohp014" %}
 
-- a CSV of collection metadata
-- a folder of images, PDFs, audio, or video files
+{% include feature/image.html objectid="hohp058" %}
 
-Driven by your collection metadata, the template generates engaging visualizations to browse and explore your objects.
-The resulting static site can be hosted on any basic web server.
+{% include feature/image.html objectid="hohp049" %}
 
-[CollectionBuilder](https://github.com/CollectionBuilder/) is an set of open source tools for creating digital collection and exhibit websites that are driven by metadata and powered by modern static web technology.
-See [CB Docs](https://collectionbuilder.github.io/cb-docs/) for detailed information.
+## About The Project
 
-{% include feature/image.html objectid="demo_001" width="75" %} 
-
-<!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
-{% include cb/about_the_about.md %} 
+Unheard Voices: Digitizing the Oral Histories of Underrepresented Communities in Idaho
