@@ -15,7 +15,12 @@
 <meta name="generator" content="collectionbuilder-csv" />
 <meta http-equiv="Content-Language" content="en-us" >
 
-{% if site.data.theme.font-cdn %}{{ site.data.theme.font-cdn }}{%- endif -%}
+{% if site.data.theme.font-cdn %}{{ site.data.theme.font-cdn }}
+{% elsif jekyll.environment == "production" %}
+<link href="https://www.lib.uidaho.edu/assets/css/uidaho-fonts.css" rel="stylesheet">
+{% else %}
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link href="https://fonts.googleapis.com/css2?family=Public+Sans:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
+{% endif %}
 <link rel="stylesheet" href="{% if site.data.theme.bootswatch %}https://cdn.jsdelivr.net/npm/bootswatch@5.1.3/dist/{{ site.data.theme.bootswatch }}/bootstrap.min.css{% else %}{{ '/bootstrap5/bootstrap.min.css' | prepend: site.digital-assets }}{% endif %}" type="text/css">
 {% if page.layout == 'data' %}<link rel="stylesheet" type="text/css" href="{{ '/datatables1-11-5/datatables.min.css' | prepend: site.digital-assets }}">{%- endif -%}
 {% if page.layout == 'map' %}<link rel="stylesheet" href="{{ '/leaflet/leaflet.css' | prepend: site.digital-assets }}">
