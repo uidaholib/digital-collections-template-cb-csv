@@ -2,7 +2,6 @@
     Paste Analytics code snippet here (for example from Matomo) or set google-analytics-id in config.yml
 {% endcomment %}
 <!-- Analytics --> 
-{% if site.google-analytics-id %}
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-BBKDZC8C7F"></script>
 <script>
@@ -11,4 +10,3 @@
   gtag('js', new Date());
   gtag('config', 'G-BBKDZC8C7F');
 </script>
-{%- endif -%}
