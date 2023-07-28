@@ -27,8 +27,8 @@
         <div class="col-md-5 mt-2 text-end">
 
            {% if site.organization-logo-nav %} <p class="text-end">
-                <a href="{{ site.organization-link }}" target="_blank" rel="noopener">
-                    <img id="footer-logo" class="img-fluid" src="{{ site.organization-logo-nav | relative_url }}" alt="{{ site.organization-name }} home">
+                <a href="{{ site.organization-link }}" target="_blank" rel="noopener" title="{{ site.organization-name }} home">
+                    <img id="footer-logo" class="img-fluid" src="{{ site.organization-logo-nav | relative_url }}" alt="{{ site.organization-name }}">
                 </a>
             </p>
             {% endif %}
@@ -45,7 +45,8 @@
     </div>
 
     <div class="col-md-12 text-center pt-3 pb-1">
-        <p class="text-white">Last updated {{ site.time | date: '%Y' }}</p>
+        <a href="https://www.lib.uidaho.edu/digital/" title="{{ site.organization-name }} home"><img class="img-fluid mb-2 footer-diginit" src="https://www.lib.uidaho.edu/media/digital/bannerlogo_allwhite.png" alt="{{ site.organization-name }}"></a>
+        <p class="text-white h6">Last updated {{ site.time | date: '%Y' }}</p>
     </div>
 
 </footer>

@@ -53,18 +53,10 @@ metadata: rwhp
 #   Enter information for your organization (replacing the CDIL links and name below) if you'd like to brand your site with a logo
 #   To remove the branding, comment out these values, or delete them. 
 #
-organization-name: "Digital Initiatives, University of Idaho Library"
+organization-name: "University of Idaho Library Digital Initiatives"
 organization-link: https://www.lib.uidaho.edu/digital/
-organization-logo-banner: https://www.lib.uidaho.edu/media/digital/justdi_logo_sm.png
-organization-logo-nav: https://www.lib.uidaho.edu/media/digital/bannerlogo_allwhite.png
-
-##########
-# GOOGLE SERVICES [optional!]
-#
-# leave these blank or comment out to NOT include google code
-# if present, used to add analytics during "production" build only
-# google-analytics-id: "UA-74844011-1"
-# google-cse-id: "002151703305773322890:1pu3smhw1t8"
+organization-logo-banner: https://www.lib.uidaho.edu/media/images/ui_library_horizontal.png
+organization-logo-nav: https://www.lib.uidaho.edu/media/digital/liblogo_white.png
 
 ##########
 # ROBOTS EXCLUDE
