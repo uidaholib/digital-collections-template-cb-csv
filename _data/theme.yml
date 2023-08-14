@@ -40,8 +40,8 @@ locations-stopwords: # set of subjects separated by ; that will be removed from 
 # MAP PAGE
 #
 # see _data/map-config.csv for field display options
-latitude: 38.89011425 #to determine center of map
-longitude: -77.00906123  #to determine center of map
+latitude: 37.74881069614324 #to determine center of map
+longitude: -25.568321616311593  #to determine center of map
 zoom-level: 3 # zoom level for map  
 map-base: Esri_WorldStreetMap # set default base map, choose from: Esri_WorldStreetMap, Esri_NatGeoWorldMap, Esri_WorldImagery, OpenStreetMap_Mapnik
 map-search: true # not suggested with large collections
@@ -108,14 +108,15 @@ font-cdn: # add font stylesheet, e.g. <link href="https://fonts.googleapis.com/c
 # the template uses Bootstrap Icons, https://icons.getbootstrap.com/
 # find the names on the BI icons page, e.g. file-image
 #
-# icons: 
-#   icon-image: image
-#   icon-audio: soundwave
-#   icon-video: film
-#   icon-pdf: file-pdf
-#   icon-record: file-text
-#   icon-panorama: image-alt
-#   icon-compound-object: collection 
-#   icon-multiple: postcard
-#   icon-default: file-earmark # fall back icon
-#   icon-back-to-top: arrow-up-square
+icons: 
+   icon-image: image
+   icon-audio: soundwave
+   icon-video: film
+   icon-pdf: file-pdf
+   icon-record: file-text
+   icon-panorama: image-alt
+   icon-compound-object: collection 
+   icon-multiple: postcard
+   icon-default: file-earmark # fall back icon
+   icon-back-to-top: arrow-up-square
+   icon-external-link: box-arrow-up-right
