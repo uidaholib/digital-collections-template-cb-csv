@@ -12,22 +12,15 @@ credits: true
 
 {% include feature/nav-menu.html sections="About CollectionBuilder SA;About the About Page" %}
 
-## About CollectionBuilder CSV
+## About the Sanborn Maps
 
-This demo collection features items from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital/), and is build using [CollectionBuilder-CSV](https://github.com/CollectionBuilder/collectionbuilder-csv).
+The Sanborn Map Company was founded by D.A. Sanborn in 1867 in New York City. Sanborn began as a surveyor for the insurance maps in Boston and from there worked with the Aetna Insurance Company in Tennessee. After making these insurance maps for these cities, he realized how important these maps are for fire insurance companies, so he established his own industry creating these maps for fire insurance purposes. D.A. Sanborn died in 1883, but his company only grew in popularity and thrived for many more years.
 
-CollectionBuilder-CSV is a "Stand Alone" template for creating digital collection and exhibit websites using Jekyll, given:
+The Sanborn Fire Insurance maps continued to produce these maps for fire insurance companies so they assess their liability in towns and cities across the United States, Canada and Mexico. These maps contain detailed information such as the location of each building and dimensions of each building in each town.  The maps provide a key and codes to indicate the building materials, stories, interior walls, windows and structure of each building. For example, buildings colored red are made of brick while the structures in yellow are frame buildings. Special fire hazards in buildings are colored green and marked with either an “x” or a dot. The Sanborn maps also include street names, locations of fire hydrants and water and gas lines, railroads, and even natural features like rivers, lakes, and ditches.
 
-- a CSV of collection metadata
-- a folder of images, PDFs, audio, or video files
+The Sanborn Maps started to be replaced by line carding in about the 1950s. However, the maps now are a rich source of historical data and used by many different people. Researchers use these maps to study patterns of growth and change within the various towns and cities as well as how specific buildings may have changed over time. Historic preservationists use the maps to assess the significance of old buildings and understand the building uses and how they may have changed over time. Archaeologists use them to trace the history of locations of excavation sites to understand the material culture found at the site. Environmental site assessors use the maps to inspect sites for certain conditions and to help with planning potential projects. Genealogists even consult the maps to trace their ancestors’ locations. 
+The University of Idaho library Special Collections and Archives houses all of the Idaho Sanborn maps from about the 1880s until the 1930s. The digital collection of these maps makes them more widely available for the variety of researchers interested in the history of Idaho towns and the structures within them, while also preserving these historical documents. 
 
-Driven by your collection metadata, the template generates engaging visualizations to browse and explore your objects.
-The resulting static site can be hosted on any basic web server.
-
-[CollectionBuilder](https://github.com/CollectionBuilder/) is an set of open source tools for creating digital collection and exhibit websites that are driven by metadata and powered by modern static web technology.
-See [CB Docs](https://collectionbuilder.github.io/cb-docs/) for detailed information.
-
-{% include feature/image.html objectid="demo_001" width="75" %} 
-
-<!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
-{% include cb/about_the_about.md %} 
+Sources
+http://www.loc.gov/rr/geogmap/sanborn/san4a1.html
+I found this key on the library of congress site and thought something like this would be a good thing to include somewhere since many of these Idaho maps don’t have the key on the pages. There are many symbols on the maps that many people probably don’t understand and this key would help a lot. 
