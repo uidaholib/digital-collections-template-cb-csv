@@ -14,6 +14,8 @@ credits: true
 
 ## About CollectionBuilder CSV
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nrho0JmUxzA?si=hqv_vzmBbGsOFDwI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 This demo collection features items from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital/), and is build using [CollectionBuilder-CSV](https://github.com/CollectionBuilder/collectionbuilder-csv).
 
 CollectionBuilder-CSV is a "Stand Alone" template for creating digital collection and exhibit websites using Jekyll, given:
