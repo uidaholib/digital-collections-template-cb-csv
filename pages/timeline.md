@@ -1,7 +1,7 @@
 ---
-title: Timeline
+title: Browse by Date
 layout: timeline
 permalink: /timeline.html
 ---
 
-## Collection Timeline
+## Browse by Date
