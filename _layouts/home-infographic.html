@@ -5,29 +5,17 @@ layout: page
 {%- assign items = site.data[site.metadata] | where_exp: 'item','item.objectid' -%}
 <div class="row">
 
-  <div class="col-md-8">
+  <div class="col-md-7">
 
     {% include index/description.html %}
-    {% include index/carousel.html title="Items from the Collection" %}
+
+    {% include index/featured-items.html title="Collection Highlights" %}
     
   </div>
-  <div class="col-md-4">  
+  <div class="col-md-5">  
 
     {% include index/time.html %}
 
-    {% include index/featured-terms.html field="subject" title="Top Subjects" max=5 %}
-    
     {% include index/objects.html %}
 
   </div>
-  <div class="col-md-12">
-
-  </div>
-
-  <div class="col-md-12">
-
-    {% include feature/timelinejs.html %}
-    
-  </div>
-
-</div>
