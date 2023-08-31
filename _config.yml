@@ -23,12 +23,12 @@ digital-assets: https://www.lib.uidaho.edu/assets
 # title of site appears in banner
 title: Idaho Sanborn Maps
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: Historic town maps of Idaho ...
+tagline: Historic fire insurance maps of Idaho created by the Sanborn Map Company
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "CollectionBuilder-CSV is a template for creating digital collection exhibits using static web technology."
+description: The Idaho Sanborn Maps digital collection consists of about 200 insurance maps created by the Sanborn Map Company. This collection of maps covers 42 counties and 81 cities in Idaho, from the 1880s to 1920s.
 # keywords, a short list of subjects describing the collection, separated by semicolon, to appear in rich markup
-keywords: idaho;history;inland northwest
+keywords: idaho;history;inland northwest;maps
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
 author: CollectionBuilder
 
