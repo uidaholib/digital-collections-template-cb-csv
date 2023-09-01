@@ -10,34 +10,39 @@
 # site domain, full URL to the production location of your collection
 url: https://www.lib.uidaho.edu
 # path to location on the domain if necessary e.g. /digital/hjccc
-baseurl: /digital/demo
+baseurl: /digital/lrcdp
 # location of code, the full url to your github repository
-source-code: https://github.com/uidaholib/digital-collections-template-cb-csv
+source-code: https://github.com/uidaholib/collectionbuilder-csv-template
 
-# url to the shared assets folder on mainweb
+# url to the shared assets folder on Digital
 digital-assets: https://www.lib.uidaho.edu/assets
 
 ##########
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: CollectionBuilder CSV
+title: Campus Planning History
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: Digital Collection Magic with Static Web Technologies
+tagline: University of Idaho Long Range Campus Development Plans 1908 to Today
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "CollectionBuilder-CSV is a template for creating digital collection exhibits using static web technology."
+description: "A collection of items illustrating the University of Idaho campus development plans, from the Olmsted Brothers to today."
 # keywords, a short list of subjects describing the collection, separated by semicolon, to appear in rich markup
 keywords: idaho;history;inland northwest
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
-author: CollectionBuilder
+author: kxu
+# Organization branding
+organization-name: "Digital Initiatives, University of Idaho Library"
+organization-link: https://www.lib.uidaho.edu/digital/
+organization-logo-banner: https://www.lib.uidaho.edu/media/digital/justdi_logo_sm.png
+organization-logo-nav: https://www.lib.uidaho.edu/media/digital/bannerlogo_allwhite.png
 
 ##########
 # COLLECTION SETTINGS
 #
 # Set the metadata for your collection (the name of the CSV file in your _data directory that describes the objects in your collection) 
 # Use the filename of your CSV **without** the ".csv" extension! E.g. _data/demo-metadata.csv --> "demo-metadata"
-metadata: demo-compoundobjects-metadata 
+metadata: lrcdp
 # page generation settings [optional!]
 # [optional: only used if you need to tweak CB defaults or generate from more than one data file]
 # page_gen:
@@ -48,15 +53,6 @@ metadata: demo-compoundobjects-metadata
 #     extension: 'html' 
 #     filter: 'objectid'  
 
-##########
-# Site/Organization Branding 
-#   Enter information for your organization (replacing the CDIL links and name below) if you'd like to brand your site with a logo
-#   To remove the branding, comment out these values, or delete them. 
-#
-organization-name: "University of Idaho Library Digital Initiatives"
-organization-link: https://www.lib.uidaho.edu/digital/
-organization-logo-banner: https://www.lib.uidaho.edu/media/images/ui_library_horizontal.png
-organization-logo-nav: https://www.lib.uidaho.edu/media/digital/liblogo_white.png
 
 ##########
 # ROBOTS EXCLUDE
