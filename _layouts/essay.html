@@ -1,0 +1,19 @@
+---
+layout: default
+---
+
+<div class="container">
+
+    <div class="tufte-content">
+
+        <article class="pt-0">   
+            <section>
+            {{ content }}
+            </section>
+        </article>
+    </div>
+
+    <div class="text-center next-buttons">
+        {% if page.next %}<a class="display-6 text-dark" href="{{ page.next.url | relative_url }}">{{ page.next.title }} &raquo;</a>{% endif %}
+    </div>
+</div>
