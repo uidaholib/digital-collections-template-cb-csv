@@ -12,7 +12,7 @@ url: https://www.lib.uidaho.edu
 # path to location on the domain if necessary e.g. /digital/hjccc
 baseurl: /digital/lrcdp
 # location of code, the full url to your github repository
-source-code: https://github.com/uidaholib/collectionbuilder-csv-template
+source-code: https://github.com/uidaholib/digital-collections-template-cb-csv
 
 # url to the shared assets folder on Digital
 digital-assets: https://www.lib.uidaho.edu/assets
@@ -31,11 +31,7 @@ description: "A collection of items illustrating the University of Idaho campus 
 keywords: idaho;history;inland northwest
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
 author: kxu
-# Organization branding
-organization-name: "Digital Initiatives, University of Idaho Library"
-organization-link: https://www.lib.uidaho.edu/digital/
-organization-logo-banner: https://www.lib.uidaho.edu/media/digital/justdi_logo_sm.png
-organization-logo-nav: https://www.lib.uidaho.edu/media/digital/bannerlogo_allwhite.png
+
 
 ##########
 # COLLECTION SETTINGS
@@ -53,6 +49,16 @@ metadata: lrcdp
 #     extension: 'html' 
 #     filter: 'objectid'  
 
+
+##########
+# Site/Organization Branding 
+#   Enter information for your organization (replacing the CDIL links and name below) if you'd like to brand your site with a logo
+#   To remove the branding, comment out these values, or delete them. 
+#
+organization-name: "University of Idaho Library Digital Initiatives"
+organization-link: https://www.lib.uidaho.edu/digital/
+organization-logo-banner: https://www.lib.uidaho.edu/media/images/ui_library_horizontal.png
+organization-logo-nav: https://www.lib.uidaho.edu/media/digital/liblogo_white.png
 
 ##########
 # ROBOTS EXCLUDE
