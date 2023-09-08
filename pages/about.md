@@ -24,7 +24,7 @@ The maps can be interpreted using the following color key, which indicates the b
 
 For example, buildings colored red are made of brick, and the structures in yellow are frame buildings. Special fire hazards in buildings are colored green and marked with either an “x” or a dot.
 
-Most structures are denoted by an abbreviation that indicates what activity occurred at that particular structure. The [guide](https://web.mit.edu/thecity/resources/abbreviations_for_sanborn_maps.pdf) below from MIT was used to extract this information to create the subjects field of each map. This metadata work is ongoing.
+Most structures are denoted by an abbreviation that indicates what activity occurred at that particular structure. The [guide](https://web.mit.edu/thecity/resources/abbreviations_for_sanborn_maps.pdf) below from MIT was used to extract this information to create the subjects field. This metadata work is ongoing.
 
 {% include feature/pdf.html objectid="/assets/pdf/abbreviations_for_sanborn_maps.pdf" width="75" %}
 
