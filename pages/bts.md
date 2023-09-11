@@ -16,7 +16,7 @@ But how do you organize and display 70+ cubic feet of materials, ranging from ph
 
 {% include essay/marginnote.html id="cnr-timeline-draft.jpg"  objectid="/assets/img/cnr-timeline-draft.jpg"%}
 
-Faced with this sheer amount of diverse materials, it took me months to process and piece them together into a coherent history. Fortunately, I later uncovered the [College of Forestry, Wildlife and Range Sciences Album](/items/cnr003.html){:target="_blank" rel="noopener"} that thoroughly chronicled a timeline of the college, from 1909 until 1984.​ 
+Faced with this sheer amount of diverse materials, it took me months to process and piece them together into a coherent history. Fortunately, I later uncovered the [College of Forestry, Wildlife and Range Sciences Album](/digital/cnr/items/cnr003.html){:target="_blank" rel="noopener"} that thoroughly chronicled a timeline of the college, from 1909 until 1984.​ 
 
 This Album became a foundational trunk from which additional materials could branch out. Using it as a skeleton, I pieced together complimentary materials into a new timeline, and eventually, this digital collection. 
 
