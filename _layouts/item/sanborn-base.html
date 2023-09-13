@@ -8,24 +8,22 @@ item-meta: true
 <div class="container py-3">
 
     {% include item/breadcrumbs.html %}
-
-    <h2 class="mb-3">{{ page.title }}</h2>
     
-    <h3>{{ page.city }}, {{ page.county }} County</h3>
+    <h2>{{ page.city }}, {{ page.county }} County</h3>
 
     <div class="row justify-content-center">
 
-        <div class="col-12 col-md-10">
+        <div class="col-md-8">
 
         {{ content }}
 
         </div>
 
-        <div class="col-12 col-md-10" id="metadata">
+<div class="col-md-4" id="metadata">
 
-            {% include item/metadata.html %}
+        {% include item/metadata.html %}
 
-        </div>
+    </div>
 
         <div class="col-md-5 py-4">
             {% include item/citation-box.html %}
