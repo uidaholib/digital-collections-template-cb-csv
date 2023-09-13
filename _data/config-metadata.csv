@@ -2,11 +2,11 @@ field,display_name,browse_link,external_link,dc_map,schema_map
 title,Title,,,DCTERMS.title,headline
 creator,Creator,,,DCTERMS.creator,creator
 archival date,Date Created
-date,,,,DCTERMS.date,dateCreated
+date,Date Created (ISO Standard),,DCTERMS.date,dateCreated
 description,,,,DCTERMS.description,description
 subject,Subjects,true,,DCTERMS.subject,keywords
-city,Cities,true,,,
-county,Counties,true,,,
+city,City,true,,,
+county,County,true,,,
 latitude,Latitude,,,,
 longitude,Longitude,,,,
 source,Source,,,,
