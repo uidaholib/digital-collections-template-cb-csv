@@ -26,14 +26,14 @@ browse-buttons: true # true / false, adds previous/next arrows to items, but inc
 # SUBJECTS PAGE
 #
 subjects-fields: subject;item_type # set of fields separated by ; to be featured in the cloud (leave blank or comment out to not generate)
-subjects-min: 18 # min size for subject cloud, too many terms = slow load time!
+subjects-min: 14 # min size for subject cloud, too many terms = slow load time!
 subjects-stopwords: # set of subjects separated by ; that will be removed from display, e.g. boxers;boxing
 
 ##########
 # LOCATIONS PAGE
 #
 locations-fields: creator # set of fields separated by ; to be featured in the cloud (leave blank or comment out to not generate)
-locations-min: 18 # min size for subject cloud, too many terms = slow load time!
+locations-min: 12 # min size for subject cloud, too many terms = slow load time!
 locations-stopwords: # set of subjects separated by ; that will be removed from display, e.g. boxers;boxing
 
 ##########
