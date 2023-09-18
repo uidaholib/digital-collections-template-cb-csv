@@ -14,7 +14,7 @@ credits: true
 
 ## About CollectionBuilder CSV
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nrho0JmUxzA?si=hqv_vzmBbGsOFDwI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+{% include feature/video.html objectid="https://www.youtube.com/embed/nrho0JmUxzA?si=hqv_vzmBbGsOFDwI" %}
 
 This demo collection features items from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital/), and is build using [CollectionBuilder-CSV](https://github.com/CollectionBuilder/collectionbuilder-csv).
 
@@ -31,5 +31,3 @@ See [CB Docs](https://collectionbuilder.github.io/cb-docs/) for detailed informa
 
 {% include feature/image.html objectid="demo_001" width="75" %} 
 
-<!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
-{% include cb/about_the_about.md %} 
