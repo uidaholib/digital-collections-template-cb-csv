@@ -1,9 +1,25 @@
 display_name,stub,dropdown_parent
 Home,/,
+About,/about.html,
+Research Features,
+Volume 1 (2022),/#VolumeOne,Research Features
+- Ray McDonald - All American,/features/mcdonald.html,Research Features
+- A History of the Black Student Union,/features/bsu.html,Research Features
+- A Course for Black History,/features/black_history_course.html,Research Features
+- The First Black Graduate - Jennie Eva Hughes,/features/hughes.html,Research Features
+Volume 2 (2023),/#VolumeTwo,Research Features
+- The Seminal History and Prospective Future of Blacks at the University of Idaho,https://uidaho.pressbooks.pub/blackhistory/,Research Features
+- Joseph Tasby,/features/tasby.html,Research Features
+- Edna Gertrude Chrisman,/features/chrisman.html,Research Features
+- Black Greek Student Life,/features/blackgreekstudentlife.html,Research Features
+- The WWAMI Program and Its Black History,/features/wwami.html,Research Features
+Volume 3
+- William Davis,/features/william-davis.html,Research Features
+- Jeff Guillory,/features/jeff-guillory.html,Research Features
+- A Recent Chronology of Black Faculty and Staff at the University of Idaho,/features/recent-chronology.html,Research Features
+- The Importance of Black Cultural Centers Student Unions and Faculty Organizations in Higher Education,/features/importance-of-blackculturalcenters.html,Research Features
+- Influences on Higher Education the University of Idaho and the Civil Rights Movement,/features/influences-on-highered.html,Research Features
 Browse,/browse.html,
 Subjects,/subjects.html,
-Locations,/locations.html,
-Map,/map.html,
 Timeline,/timeline.html,
 Data,/data.html,
-About,/about.html,
