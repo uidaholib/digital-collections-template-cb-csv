@@ -1,0 +1,10 @@
+---
+layout: about
+---
+ Future #
+
+Black history at the University of Idaho spans all the way back to the early days of the school and has played a significant role at the University by diversifying the campus and pushing its academic standings. With the collective history of Black persons at the University now summed up, the question remains: What does the future look like for Black students and faculty at the University?  
+
+As has been noted in the past, those active Black students and faculty at the University have accomplished much; however, there have been issues that have prevented them from going even further. Whether it be a lack of support from senior leadership or the inability to find a space to meet on campus, Black students and faculty at the University have struggled to push the racial bar to its current position. As such, the history of Blacks at the University relies heavily on two items: an active Black student and faculty body, and support from senior leadership at the University. 
+
+The research at the University indicates that these two items are what have either promoted greater Black progress at the University or have stagnated it. These two items are interchangeable in the fact that if one does not have the support of the other, then no progress is bound to be made. With this preliminary knowledge, necessity dictates that the general university culture of the United States ought to also be examined, as the University of Idaho follows the patterns of many other universities. **As such, there are two main areas that need further investigation, the first being the Black student experience at universities and the second being the Black faculty, staff, and administrators’ experience at universities.**
