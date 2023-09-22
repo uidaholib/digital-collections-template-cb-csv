@@ -10,34 +10,34 @@
 # site domain, full URL to the production location of your collection
 url: https://www.lib.uidaho.edu
 # path to location on the domain if necessary e.g. /digital/hjccc
-baseurl: /digital/demo
+baseurl: /blackhistory
 # location of code, the full url to your github repository
 source-code: https://github.com/uidaholib/digital-collections-template-cb-csv
 
 # url to the shared assets folder on mainweb
-digital-assets: https://www.lib.uidaho.edu/assets
+digital-assets:  https://www.lib.uidaho.edu\content\blackhistory\objects
 
 ##########
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: CollectionBuilder CSV
+title: Black History at the University of Idaho
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: Digital Collection Magic with Static Web Technologies
+tagline: "Research, essays and scholarship from the <a class='text-warning' target='_blank' href='https://www.uidaho.edu/ed/about/spaces/bhrl'>Black History Research Lab</a>"
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "CollectionBuilder-CSV is a template for creating digital collection exhibits using static web technology."
+description: "Essays, visualizations, and other online features drawn from student and faculty research coming out of the Black History Research Lab at U of I, directed by Dr. Sydney Freeman Jr."
 # keywords, a short list of subjects describing the collection, separated by semicolon, to appear in rich markup
-keywords: idaho;history;inland northwest
+keywords: idaho;history;university of idaho
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
-author: CollectionBuilder
+author: dcnb
 
 ##########
 # COLLECTION SETTINGS
 #
 # Set the metadata for your collection (the name of the CSV file in your _data directory that describes the objects in your collection) 
 # Use the filename of your CSV **without** the ".csv" extension! E.g. _data/demo-metadata.csv --> "demo-metadata"
-metadata: demo-compoundobjects-metadata 
+metadata: uiblackhistory 
 # page generation settings [optional!]
 # [optional: only used if you need to tweak CB defaults or generate from more than one data file]
 # page_gen:
@@ -48,15 +48,78 @@ metadata: demo-compoundobjects-metadata
 #     extension: 'html' 
 #     filter: 'objectid'  
 
+# collections
+# each unit of the book is a collection
+# each unit collection should be given a name value
+collections:
+  001_intro:
+    output: true
+    name: Introduction
+    permalink: /seminalhistory/:name
+  002-006_past:
+    output: true
+    name: Past
+    permalink: /seminalhistory/:name
+  007-015_black-student-athletics:
+    output: true
+    name: Black Student Athletics
+    permalink: /seminalhistory/:name
+  016-025_recent-past:
+    output: true
+    name: Recent Past
+    permalink: /seminalhistory/:name
+  025-036_present:
+    output: true
+    name: Present
+    permalink: /seminalhistory/:name
+  037-039_future:
+    output: true
+    name: Future
+    permalink: /seminalhistory/:name
+  040-bibliography:
+    output: true
+    name: Bibliography
+    permalink: /seminalhistory/:name
+
+defaults:
+  - scope:
+      type: 001_intro
+    values:
+      layout: about
+  - scope:
+      type: 002-006_past
+    values:
+      layout: about
+  - scope:
+      type: 007-015_black-student-athletics
+    values:
+      layout: about
+  - scope:
+      type: 016-025_recent-past
+    values:
+      layout: about
+  - scope:
+      type: 025-036_present
+    values:
+      layout: about
+  - scope:
+      type: 037-039_future
+    values:
+      layout: about
+  - scope:
+      type: 040-bibliography
+    values:
+      layout: about
+
 ##########
 # Site/Organization Branding 
 #   Enter information for your organization (replacing the CDIL links and name below) if you'd like to brand your site with a logo
 #   To remove the branding, comment out these values, or delete them. 
 #
-organization-name: "University of Idaho Library Digital Initiatives"
-organization-link: https://www.lib.uidaho.edu/digital/
-organization-logo-banner: https://www.lib.uidaho.edu/media/images/ui_library_horizontal.png
-organization-logo-nav: https://www.lib.uidaho.edu/media/digital/liblogo_white.png
+organization-name: "Black History Research Lab, University of Idaho"
+organization-link: https://www.lib.uidaho.edu/digital/bhrle
+organization-logo-banner: /assets/img/bhrl.jpg
+organization-logo-nav: /assets/img/bhrl.jpg
 
 ##########
 # ROBOTS EXCLUDE
