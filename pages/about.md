@@ -133,147 +133,47 @@ Regardless of whether we may be liable for such infringement under local country
     <th scope="row">1898</th>
     <td>2/4 first page only, 2/11 first page only, 2/18 first page only, 2/25 - 7/29 missing</td>
    </tr>
+   <tr>
+    <th scope="row">1899</th>
+    <td>5/19; 6/23; 8/4; 10/27</td>
+   </tr>
+   <tr>
+    <th scope="row">1900</th>
+    <td>1/26; 2/23; 5/18, 7/27- last page and part of front page, 8/3- first two pages missing; 8/31.</td>
+   </tr>
+   <tr>
+    <th scope="row">1901</th>
+    <td>2/22; 4/12; 5/3; 6/28;8/23 to 8/30, 10/4; 11/8; 12/6; 12/20 to 12/27.</td>
+   </tr>
+   <tr>
+    <th scope="row">1902</th>
+    <td>4/11; 4/25; 7/25;</td>
+   </tr>
+   <tr>
+    <th scope="row">1903</th>
+    <td>3/13; 7/24; 8/21; 9/4;</td>
+   </tr>
+   <tr>
+    <th scope="row">1904</th>
+    <td>1/29;</td>
+   </tr>
+   <tr>
+    <th scope="row">1905</th>
+    <td>2/24; 6/30; 8/25; 9/1; 11/17 all have cut articles</td>
+   </tr>
+   <tr>
+    <th scope="row">1906</th>
+    <td>7/20 (parts of page); 7/27</td>
+   </tr>
+   <tr>
+    <th scope="row">1907</th>
+    <td>complete</td>
+   </tr>
+   <tr>
+    <th scope="row">1908</th>
+    <td>7/17 to 12/25</td>
+   </tr>
 
-1899</p>
-
-   </td>
-   <td>5/19; 6/23; 8/4; 10/27
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td><p style="text-align: right">
-1900</p>
-
-   </td>
-   <td>1/26; 2/23; 5/18 
-   </td>
-   <td>7/27- last page and part of front page
-   </td>
-   <td>8/3- frist two pages missing; 8/31.
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td><p style="text-align: right">
-1901</p>
-
-   </td>
-   <td>2/22; 4/12; 5/3; 6/28;8/23 to 8/30
-   </td>
-   <td>10/4; 11/8; 12/6; 12/20 to 12/27.
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td><p style="text-align: right">
-1902</p>
-
-   </td>
-   <td>4/11; 4/25; 7/25; 
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td><p style="text-align: right">
-1903</p>
-
-   </td>
-   <td>3/13; 7/24; 8/21; 9/4; 
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td><p style="text-align: right">
-1904</p>
-
-   </td>
-   <td>1/29; 
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td><p style="text-align: right">
-1905</p>
-
-   </td>
-   <td>2/24; 6/30; 8/25; 9/1; 11/17 all have cut articles
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td><p style="text-align: right">
-1906</p>
-
-   </td>
-   <td>7/20 (parts of page); 7/27
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td><p style="text-align: right">
-1907</p>
-
-   </td>
-   <td>complete 
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td><p style="text-align: right">
-1908</p>
-
-   </td>
-   <td>7/17 to 12/25
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td><p style="text-align: right">
 1909</p>
 
    </td>
