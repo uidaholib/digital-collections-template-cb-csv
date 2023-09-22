@@ -1,0 +1,37 @@
+---
+title: The WWAMI Program and Its Black History
+permalink: /features/wwami.html
+layout: about
+---
+
+# The WWAMI Program and Its Black History
+
+*by Brody Gasper*
+
+WWAMI is the University of Washington’s School of Medicine’s unique program augmented towards a cooperative medical education between five states, Washington, Wyoming, Alaska, Montana, and Idaho. This multi-state program promotes the growth of primary care physicians in the medical field. The program has been around since 1971 when the four states of Washington, Montana, Alaska, and Idaho (Wyoming joined later in 1996) partnered together with the University of Washington School of Medicine, to try and solve the lack of primary care physicians in rural areas. Since then, the WWAMI program has produced many qualified physicians that serve across the United States, helping to spread the program’s ideals and the continued push for future physicians.
+
+The WWAMI program has five stated goals that help it achieve its success, providing publicly supported medical education (1), increasing the number of primary care physicians and correcting the maldistribution of physicians (2), providing community-based medical education (3), expanding graduate medical education and continuing medical education (4), and providing all of these in a cost-effective manner (5). Most of this is achieved through the program’s partners (the five states in WWAMI), who provide educational costs at in-state institutions and through subsidized means, significantly reducing those educational costs. This program has allowed many students to enter the medical field and have successful practices that have deeply aided in shortages of medical workers in the five states.
+
+The WWAMI program has seen many students come through its doors throughout its history, which has helped set a precedent for the program in current days. Though there have not been many in Idaho, the program has seen the advancement of several black graduate students in their medical careers. The first Black student to enroll in the Idaho WWAMI program was Dr. Jonathon Wolf in 2004. He later graduated from the University of Washington School of Medicine in 2012, after that graduating from a five-year orthopedic surgery residency at the University of Cincinnati Medical, followed by a foot and ankle fellowship at the Harvard-affiliated Massachusetts General Hospital in Boston. He currently lives in Eagle, Idaho with his wife and two children, joining the Saltzer Health Medical Clinic in 2020.
+
+{% include feature/image.html objectid="jonathon-wolf" width="50" %}
+
+Following Dr. Wolf’s enrollment, the Idaho WWAMI program recorded its first Black female student in 2005, Dr. Karen Quaynor. Dr. Quaynor graduated with her Bachelor’s degree in Sociology with a minor in Chemistry and a Master of Health Science degree at Boise State University. She went on to complete her medical degree at the University of Washington School of Medicine in 2012, as well as finishing her Residency training at the University of Pittsburgh Medical Center Shadyside in Pittsburgh, Pennsylvania in 2015. She currently works in Lynnwood, Washington at the Bliss Health and Wellness Medical Spa.
+
+Dr. Sharlay K. Butler entered the Idaho program in 2010, eventually graduating from the University of Washington School of Medicine in 2015. From here, she completed her residency at McGaw Medical Center of Northwestern University in 2019, starting a fellowship at the University of Pittsburgh Medical Center in the OB/GYN department. Finishing her fellowship in 2021, she went on to receive her board certification from the American Board of Obstetrics and Gynecology. She currently works at the Harvard Medical School as an instructor for Obstetrics/Gynecology and is affiliated with the Brigham and Women's Hospital, Center for Fetal Medicine and Prenatal Genetics.
+
+{% include feature/image.html objectid="sharlay-butler" %}
+
+Originally from Kenya, Dr. Habtam Asmeche came to the Idaho WWAMI program in 2015 with her Bachelor of Science in Biology from Northwest Nazarene University. Because of her clinical experience, she worked as a medical interpreter and cultural mediator for three years at the Family Medicine Residency of Idaho in Boise, as well as a medical interpreter at St. Luke’s Health System (in Boise). She graduated from the University of Washington School of Medicine in 2020 and is now completing her internal medicine residency at the University of Washington.
+
+{% include feature/image.html objectid="asmeche-habtam" %}
+
+Dr. Joseph McNeal enrolled in the Idaho WWAMI at the University of Idaho in 2018, graduating in the Spring of 2022 and is completing an internal medicine residency at Wright Patterson Airforce Base in Dayton, Ohio. Romaric Mukuna is another Black student in the Idaho WWAMI program, enrolling in 2019 after earning his Bachelor's degree in Biochemistry at Boise State University and worked a subsequent 2 years (at BSU) as a Chemistry Lab instructor. He is currently a Fourth Year (or MS4) medical student and is scheduled to graduate this year.
+
+{% include feature/image.html objectid="joseph-mcneal;romaric-mukuna" %}
+
+In 2015, Idaho WWAMI made history with its first Black female full-time faculty member hire, Dr. Lynda Freeman, working as a Clinical Assistant Professor. Previous to her employment at WWAMI, Dr. Freeman earned a Master’s in Public Health (M.P.H.), Health/Health Care Administration/Management, and a Master’s of Business Administration (M.B.A.) in 2008 at the University of Alabama in Birmingham. After earning these degrees, she served as a Rural Health Outreach Coordinator for the Tuskegee Area Health Education Center from 2009 to 2011. She later earned her Doctor of Health Science in 2014 from Nova Southeastern University. In 2021, Dr. Freeman began a new role as a Clinical Associate Professor and now co-leads a course on Public Health, Health Equity, and Social Determinants of Health. Dr. Freeman has also done much else outside her documented employment role serving as a faculty co-advisor for the University of Idaho’s Black Student Union and a faculty advisor to Idaho WWAMI medical students in the National Medical Association, as well as being a member of the University of Washington School of Medicine’s Underrepresented in Medicine Advisory Group, the University of Idaho Black Faculty, and Staff Association, and the WWAMI Scholarship Committee. In 2022, Dr. Freeman was named as one of 50 people by the Idaho Business Review as a 2022 Women of the Year honoree.
+
+{% include feature/image.html objectid="lynda-freeman;obalemba" width="50" %}
+
+Dr. Onesmo Balemba is originally from Tanzania, where he decided to pursue a degree in the veterinary field, enrolling at the Sokoine University of Agriculture in Morogoro, Tanzania. He received his Master’s in Veterinary Medicine in 1997, from which he would then pursue his doctorate at the Royal Veterinary and Agriculture University in Copenhagen, Denmark, earning his Ph.D. in 2001. After his medical education, Dr. Balemba completed a postdoctoral fellowship at the University of Wyoming in 2003 and a further postdoctoral fellowship at the University of Vermont in 2008. Dr. Balemba then came to the University of Idaho WWAMI in 2008, where he has worked since then as an Associate Professor in the Department of Biological Sciences, a Professor in the WWAMI program, and where he also runs his own lab named the “Balemba Lab.”
