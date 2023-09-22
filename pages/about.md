@@ -52,8 +52,7 @@ If you have any issues with the material presented in this collection, please re
   </div>
 </div>
 
-## Missing Issues of the Genesee News
-<h2 class="text-center">Missing Issues of the Genesee News</h2>
+## <h2 class="text-center">Missing Issues of the Genesee News</h2>
 <h3 class="text-center">July 17, 1888 to August 6, 1968</h3>
 
 <div class="row">
