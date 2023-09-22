@@ -113,76 +113,27 @@ Regardless of whether we may be liable for such infringement under local country
     <th scope="row">1893</th>
     <td>5/12 (parts of pages missing)</td>
    </tr>
-1894</p>
+   <tr>
+    <th scope="row">1894</th>
+    <td>td>5/11 (parts of pages missing), 5/18 (parts of pages missing), 7/6 (front page missing)</td>
+   </tr> 
+   <tr>
+    <th scope="row">1895</th>
+    <td>8/2 (last page); 8/9</td>
+   </tr>
+   <tr>
+    <th scope="row">1896</th>
+    <td>complete</td>
+   </tr>
+   <tr>
+    <th scope="row">1897</th>
+    <td>5/7 back page</td>
+   </tr>
+   <tr>
+    <th scope="row">1898</th>
+    <td>2/4 first page only, 2/11 first page only, 2/18 first page only, 2/25 - 7/29 missing</td>
+   </tr>
 
-   </td>
-   <td>5/11 (parts of pages missing), 
-   </td>
-   <td>5/18 (parts of pages missing)
-   </td>
-   <td>7/6 (front page missing)
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td><p style="text-align: right">
-1895</p>
-
-   </td>
-   <td>8/2 (last page); 8/9.
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td><p style="text-align: right">
-1896</p>
-
-   </td>
-   <td>complete 
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td><p style="text-align: right">
-1897</p>
-
-   </td>
-   <td>5/7 back page.
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td><p style="text-align: right">
-1898</p>
-
-   </td>
-   <td>2/4 first page only
-   </td>
-   <td>2/11 first page only
-   </td>
-   <td>2/18 first page only
-   </td>
-   <td>2/25 - 7/29 missing
-   </td>
-  </tr>
-  <tr>
-   <td><p style="text-align: right">
 1899</p>
 
    </td>
