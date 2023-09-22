@@ -23,10 +23,10 @@ digital-assets: https://www.lib.uidaho.edu/assets
 # title of site appears in banner
 title: The Genesee News
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: a quick archive of Genesee News PDFs by year from Microfilm
+tagline: A Microfilm Archive Spanning July 17, 1888 to August 6, 1968
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "A collection of the <i>The Genesee News</i> and predecessor newspapers, <i>the Recorder</i> and <i>Advertiser</i>, covering 80 years from the arrival of the railroad and the beginning of New Genesee, ID in 1888 to 1968 when the News was merged with the Kendrick Gazette."
+description: "A collection of the <i>The Genesee News</i> and predecessor newspapers, <i>the Recorder</i> and <i>Advertiser</i>, covering 80 years from the arrival of the railroad and the beginning of New Genesee, Idaho in 1888 to 1968 when the News was merged with the <i>Kendrick Gazette</i>."
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
 author: CollectionBuilder
 
