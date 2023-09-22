@@ -88,22 +88,13 @@ Regardless of whether we may be liable for such infringement under local country
  </thead>
  <tbody>
   <tr>
-   <th scope="row">1</th>
-   <td>1888</td>
+   <th scope="row">1888</th>
    <td>8/4 to 8/18; 9/22; 10/13 to 10/27</td>
-1889</p>
-   </td>
-   <td>complete 
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
   </tr>
-  <tr>
-   <td><p style="text-align: right">
+   <tr>
+    <th scope="row">1889</th>
+    <td>complete</td>
+   </tr>
 1890</p>
 
    </td>
