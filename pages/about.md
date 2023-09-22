@@ -95,7 +95,7 @@ Regardless of whether we may be liable for such infringement under local country
 1888</p>
 
    </td>
-   <td>8/4 to 8/18; 9/22; 10/13 to 10/27.
+   <td colspan="2" >8/4 to 8/18; 9/22; 10/13 to 10/27.
    </td>
    <td>
    </td>
