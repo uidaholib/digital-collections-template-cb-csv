@@ -77,15 +77,15 @@ It is our policy to respond to clear notices of alleged copyright infringement. 
 
 Regardless of whether we may be liable for such infringement under local country law or United States law, our response to these notices may include removing or disabling access to material claimed to be the subject of infringing activity and/or terminating subscribers. If we remove or disable access in response to such a notice, we will make a good-faith attempt to contact the owner or administrator of the affected site or content so that they may make a counter notification. We may also document notices of alleged infringement on which we act. Please note that in addition to being forwarded to the person who provided the allegedly infringing content, a copy of this legal notice may be sent to a third-party which may publish and/or annotate it. As such, your letter (with your personal information removed) may be forwarded to Chilling Effects ([http://www.chillingeffects.org](http://www.chillingeffects.org)) for publication. You can see an example of such a publication at [http://www.chillingeffects.org/dmca512/notice.cgi?NoticeID=861](http://www.chillingeffects.org/dmca512/notice.cgi?NoticeID=861). 
 
-### Missing Issues
+## Missing Issues of the Genesee News, 7/17/1888-8/6/1968
 
 <div class="row justify-content-center">
   <div class="col-auto">
-<table class="table table-dark">
+<table class="table table-striped table-dark">
   <thead>
   <tr>
-   <th scope="col">Missing Issues of the Genesee News</th>
-   <th scope="col">7/17/1888-8/6/1968</th>
+   <th scope="col">Year</th>
+   <th scope="col">Areas</th>
  </tr>
  </thead>
  <tbody>
@@ -422,6 +422,6 @@ Regardless of whether we may be liable for such infringement under local country
     <td>See Gazette News</td>
    </tr>
   <thead>
-   <table class="table table-dark">
+   <table class="table table-striped table-dark">
   <div class="col-auto">
 <div class="row justify-content-center">
