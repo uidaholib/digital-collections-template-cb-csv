@@ -95,62 +95,22 @@ Regardless of whether we may be liable for such infringement under local country
     <th scope="row">1889</th>
     <td>complete</td>
    </tr>
-1890</p>
-
-   </td>
-   <td>8/21 - yearend. Missing also in Wise paper
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td><p style="text-align: right">
-1891</p>
-
-   </td>
-   <td>1/1 to 5/7. Also missing in Wise paper.
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td><p style="text-align: right">
-1892</p>
-
-   </td>
-   <td>complete 
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td><p style="text-align: right">
-1893</p>
-
-   </td>
-   <td>5/12 (parts of pages missing)
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td><p style="text-align: right">
+   <tr>
+    <th scope="row">1890</th>
+    <td>8/21 to end of year. Also missing in Wise paper</td>
+   </tr>
+   <tr>
+    <th scope="row">1891</th>
+    <td>1/1 to 5/7. Also missing in Wise paper</td>
+   </tr>
+   <tr>
+    <th scope="row">1892</th>
+    <td>complete</td>
+   </tr>
+   <tr>
+    <th scope="row">1893</th>
+    <td>5/12 (parts of pages missing)</td>
+   </tr>
 1894</p>
 
    </td>
