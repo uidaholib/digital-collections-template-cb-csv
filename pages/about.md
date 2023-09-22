@@ -53,7 +53,7 @@ If you have any issues with the material presented in this collection, please re
 </div>
 
 <h2 class="text-center">Missing Issues of the Genesee News</h2>
-<h3 class="text-center">7/17/1888-8/6/1968</h3>
+<h3 class="text-center">July 17, 1888 to August 6, 1968</h3>
 
 <div class="row">
   <div class="col-md-12 bs-linebreak">
@@ -96,7 +96,7 @@ If you have any issues with the material presented in this collection, please re
    </tr>
    <tr>
     <th scope="row">1894</th>
-    <td>td>5/11 (parts of pages missing), 5/18 (parts of pages missing), 7/6 (front page missing)</td>
+    <td>5/11 (parts of pages missing), 5/18 (parts of pages missing), 7/6 (front page missing)</td>
    </tr> 
    <tr>
     <th scope="row">1895</th>
