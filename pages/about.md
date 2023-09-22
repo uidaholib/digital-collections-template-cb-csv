@@ -422,8 +422,6 @@ Regardless of whether we may be liable for such infringement under local country
     <td>See Gazette News</td>
    </tr>
   <thead>
-  </table>
    <table class="table table-dark">
-   </table>
   <div class="col-auto">
 <div class="row justify-content-center">
