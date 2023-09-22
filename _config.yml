@@ -12,10 +12,10 @@ url: https://www.lib.uidaho.edu
 # path to location on the domain if necessary e.g. /digital/hjccc
 baseurl: /blackhistory
 # location of code, the full url to your github repository
-source-code: https://github.com/uidaholib/digital-collections-template-cb-csv
+source-code: https://github.com/uidaholib/bhrle
 
 # url to the shared assets folder on mainweb
-digital-assets:  https://www.lib.uidaho.edu\content\blackhistory\objects
+digital-assets: https://www.lib.uidaho.edu/assets
 
 ##########
 # SITE SETTINGS
@@ -117,7 +117,7 @@ defaults:
 #   To remove the branding, comment out these values, or delete them. 
 #
 organization-name: "Black History Research Lab, University of Idaho"
-organization-link: https://www.lib.uidaho.edu/digital/bhrle
+organization-link: https://www.uidaho.edu/ed/about/spaces/bhrl
 organization-logo-banner: /assets/img/bhrl.jpg
 organization-logo-nav: /assets/img/bhrl.jpg
 
