@@ -139,11 +139,11 @@ Regardless of whether we may be liable for such infringement under local country
    </tr>
    <tr>
     <th scope="row">1900</th>
-    <td>1/26; 2/23; 5/18, 7/27- last page and part of front page, 8/3- first two pages missing; 8/31.</td>
+    <td>1/26; 2/23; 5/18, 7/27- last page and part of front page, 8/3- first two pages missing; 8/31</td>
    </tr>
    <tr>
     <th scope="row">1901</th>
-    <td>2/22; 4/12; 5/3; 6/28;8/23 to 8/30, 10/4; 11/8; 12/6; 12/20 to 12/27.</td>
+    <td>2/22; 4/12; 5/3; 6/28;8/23 to 8/30, 10/4; 11/8; 12/6; 12/20 to 12/27</td>
    </tr>
    <tr>
     <th scope="row">1902</th>
@@ -173,871 +173,254 @@ Regardless of whether we may be liable for such infringement under local country
     <th scope="row">1908</th>
     <td>7/17 to 12/25</td>
    </tr>
-
-1909</p>
-
-   </td>
-   <td>1/1 to 7/16
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td><p style="text-align: right">
-1910</p>
-
-   </td>
-   <td>complete 
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td><p style="text-align: right">
-1911</p>
-
-   </td>
-   <td>7/14 pieces missing
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td><p style="text-align: right">
-1912</p>
-
-   </td>
-   <td>complete 
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td><p style="text-align: right">
-1913</p>
-
-   </td>
-   <td>complete 
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td><p style="text-align: right">
-1914</p>
-
-   </td>
-   <td>complete 
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td><p style="text-align: right">
-1915</p>
-
-   </td>
-   <td>complete 
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td><p style="text-align: right">
-1916</p>
-
-   </td>
-   <td>complete 
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td><p style="text-align: right">
-1917</p>
-
-   </td>
-   <td>complete 
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td><p style="text-align: right">
-1918</p>
-
-   </td>
-   <td>complete 
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td><p style="text-align: right">
-1919</p>
-
-   </td>
-   <td>7/25 8/8.
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td><p style="text-align: right">
-1920</p>
-
-   </td>
-   <td>7/7 to  7/21
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td><p style="text-align: right">
-1921</p>
-
-   </td>
-   <td>4/1 to 4/15; 7/1; 7/15 to 7/22.
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td><p style="text-align: right">
-1922</p>
-
-   </td>
-   <td>complete 
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td><p style="text-align: right">
-1923</p>
-
-   </td>
-   <td>complete 
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td><p style="text-align: right">
-1924</p>
-
-   </td>
-   <td>complete 
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td><p style="text-align: right">
-1925</p>
-
-   </td>
-   <td>1/9; 7/10 to 7/17; 7/31 to 8/7
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td><p style="text-align: right">
-1926</p>
-
-   </td>
-   <td>1/29 1st & last pages missing
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td><p style="text-align: right">
-1927</p>
-
-   </td>
-   <td>10/21; front page missing
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td><p style="text-align: right">
-1928</p>
-
-   </td>
-   <td>7/6;
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td><p style="text-align: right">
-1929</p>
-
-   </td>
-   <td>5/24; 7/12; 
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td><p style="text-align: right">
-1930</p>
-
-   </td>
-   <td>complete 
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td><p style="text-align: right">
-1931</p>
-
-   </td>
-   <td>complete 
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td><p style="text-align: right">
-1932</p>
-
-   </td>
-   <td>complete 
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td><p style="text-align: right">
-1933</p>
-
-   </td>
-   <td>complete 
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td><p style="text-align: right">
-1934</p>
-
-   </td>
-   <td>complete 
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td><p style="text-align: right">
-1935</p>
-
-   </td>
-   <td>7/26.
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td><p style="text-align: right">
-1936</p>
-
-   </td>
-   <td>9/25;
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td><p style="text-align: right">
-1937</p>
-
-   </td>
-   <td>5/14;
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td><p style="text-align: right">
-1938</p>
-
-   </td>
-   <td>9/16 to 9/23; 11/4.
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td><p style="text-align: right">
-1939</p>
-
-   </td>
-   <td>complete 
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td><p style="text-align: right">
-1940</p>
-
-   </td>
-   <td>2/23.
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td><p style="text-align: right">
-1940</p>
-
-   </td>
-   <td>last 6 months
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td><p style="text-align: right">
-1941</p>
-
-   </td>
-   <td>Jan/1 to 6/13. Was there for Marion Wise paper
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td><p style="text-align: right">
-1942</p>
-
-   </td>
-   <td>complete 
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td><p style="text-align: right">
-1943</p>
-
-   </td>
-   <td>9/24.
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td><p style="text-align: right">
-1944</p>
-
-   </td>
-   <td>complete 
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td><p style="text-align: right">
-1945</p>
-
-   </td>
-   <td>2/7.
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td><p style="text-align: right">
-1946</p>
-
-   </td>
-   <td>complete 
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td><p style="text-align: right">
-1947</p>
-
-   </td>
-   <td>6/20.
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td><p style="text-align: right">
-1948</p>
-
-   </td>
-   <td>complete 
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td><p style="text-align: right">
-1949</p>
-
-   </td>
-   <td>complete 
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td><p style="text-align: right">
-1950</p>
-
-   </td>
-   <td>complete 
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td><p style="text-align: right">
-1951</p>
-
-   </td>
-   <td>complete 
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td><p style="text-align: right">
-1952</p>
-
-   </td>
-   <td>complete 
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td><p style="text-align: right">
-1953</p>
-
-   </td>
-   <td>complete 
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td><p style="text-align: right">
-1954</p>
-
-   </td>
-   <td>complete 
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td><p style="text-align: right">
-1955</p>
-
-   </td>
-   <td>1/21.
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td><p style="text-align: right">
-1956</p>
-
-   </td>
-   <td>10/19.
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td><p style="text-align: right">
-1957</p>
-
-   </td>
-   <td>2/24. We have 2/22 there is no 2/24
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td><p style="text-align: right">
-1958</p>
-
-   </td>
-   <td>complete 
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td><p style="text-align: right">
-1959</p>
-
-   </td>
-   <td>complete 
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td><p style="text-align: right">
-1960</p>
-
-   </td>
-   <td>complete 
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td><p style="text-align: right">
-1961</p>
-
-   </td>
-   <td>complete 
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td><p style="text-align: right">
-1962</p>
-
-   </td>
-   <td>complete 
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td><p style="text-align: right">
-1963</p>
-
-   </td>
-   <td>complete 
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td><p style="text-align: right">
-1964</p>
-
-   </td>
-   <td>complete 
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td><p style="text-align: right">
-1965</p>
-
-   </td>
-   <td>complete 
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td><p style="text-align: right">
-1966</p>
-
-   </td>
-   <td>complete 
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td><p style="text-align: right">
-1967</p>
-
-   </td>
-   <td>complete 
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td><p style="text-align: right">
-1968</p>
-
-   </td>
-   <td>complete 
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td>1968-1985
-   </td>
-   <td>See Gazette News
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-  </tr>
+   <tr>
+    <th scope="row">1909</th>
+    <td>1/1 to 7/16</td>
+   </tr>
+   <tr>
+    <th scope="row">1910</th>
+    <td>complete</td>
+   </tr>
+   <tr>
+    <th scope="row">1911</th>
+    <td>7/14, pieces missing</td>
+   </tr>
+   <tr>
+    <th scope="row">1912</th>
+    <td>complete</td>
+   </tr>
+   <tr>
+    <th scope="row">1913</th>
+    <td>complete</td>
+   </tr>
+   <tr>
+    <th scope="row">1914</th>
+    <td>complete</td>
+   </tr>
+   <tr>
+    <th scope="row">1915</th>
+    <td>complete</td>
+   </tr>
+   <tr>
+    <th scope="row">1916</th>
+    <td>complete</td>
+   </tr>
+   <tr>
+    <th scope="row">1917</th>
+    <td>complete</td>
+   </tr>
+   <tr>
+    <th scope="row">1918</th>
+    <td>complete</td>
+   </tr>
+   <tr>
+    <th scope="row">1919</th>
+    <td>7/25 8/8</td>
+   </tr>
+   <tr>
+    <th scope="row">1920</th>
+    <td>7/7 to 7/21</td>
+   </tr>
+   <tr>
+    <th scope="row">1921</th>
+    <td>4/1 to 4/15; 7/1; 7/15 to 7/22</td>
+   </tr>
+   <tr>
+    <th scope="row">1922</th>
+    <td>complete</td>
+   </tr>
+   <tr>
+    <th scope="row">1923</th>
+    <td>complete</td>
+   </tr>
+   <tr>
+    <th scope="row">1924</th>
+    <td>complete</td>
+   </tr>
+   <tr>
+    <th scope="row">1925</th>
+    <td>1/9; 7/10 to 7/17; 7/31 to 8/7</td>
+   </tr>
+   <tr>
+    <th scope="row">1926</th>
+    <td>1/29 1st & last pages missing</td>
+   </tr>
+   <tr>
+    <th scope="row">1927</th>
+    <td>10/21; front page missing</td>
+   </tr>
+   <tr>
+    <th scope="row">1928</th>
+    <td>7/6;</td>
+   </tr>
+   <tr>
+    <th scope="row">1929</th>
+    <td>5/24; 7/12;</td>
+   </tr>
+   <tr>
+    <th scope="row">1930</th>
+    <td>complete</td>
+   </tr>
+   <tr>
+    <th scope="row">1931</th>
+    <td>complete</td>
+   </tr>
+   <tr>
+    <th scope="row">1932</th>
+    <td>complete</td>
+   </tr>
+   <tr>
+    <th scope="row">1933</th>
+    <td>complete</td>
+   </tr>
+   <tr>
+    <th scope="row">1934</th>
+    <td>complete</td>
+   </tr>
+   <tr>
+    <th scope="row">1935</th>
+    <td>7/26</td>
+   </tr>
+   <tr>
+    <th scope="row">1936</th>
+    <td>9/25</td>
+   </tr>
+   <tr>
+    <th scope="row">1937</th>
+    <td>5/14</td>
+   </tr>
+   <tr>
+    <th scope="row">1938</th>
+    <td>9/16 to 9/23; 11/4</td>
+   </tr>
+   <tr>
+    <th scope="row">1939</th>
+    <td>complete</td>
+   </tr>
+   <tr>
+    <th scope="row">1940</th>
+    <td>2/23</td>
+   </tr>
+   <tr>
+    <th scope="row">1940</th>
+    <td>final 6 months</td>
+   </tr>
+   <tr>
+    <th scope="row">1941</th>
+    <td>Jan/1 to 6/13. Included in Marion Wise paper</td>
+   </tr>
+   <tr>
+    <th scope="row">1942</th>
+    <td>complete</td>
+   </tr>
+   <tr>
+    <th scope="row">1943</th>
+    <td>9/24</td>
+   </tr>
+   <tr>
+    <th scope="row">1944</th>
+    <td>complete</td>
+   </tr>
+   <tr>
+    <th scope="row">1945</th>
+    <td>2/7</td>
+   </tr>
+   <tr>
+    <th scope="row">1946</th>
+    <td>complete</td>
+   </tr>
+   <tr>
+    <th scope="row">1947</th>
+    <td>6/20</td>
+   </tr>
+   <tr>
+    <th scope="row">1948</th>
+    <td>complete</td>
+   </tr>
+   <tr>
+    <th scope="row">1949</th>
+    <td>complete</td>
+   </tr>
+   <tr>
+    <th scope="row">1950</th>
+    <td>complete</td>
+   </tr>
+   <tr>
+    <th scope="row">1951</th>
+    <td>complete</td>
+   </tr>
+   <tr>
+    <th scope="row">1952</th>
+    <td>complete</td>
+   </tr>
+   <tr>
+    <th scope="row">1953</th>
+    <td>complete</td>
+   </tr>
+   <tr>
+    <th scope="row">1954</th>
+    <td>complete</td>
+   </tr>
+   <tr>
+    <th scope="row">1955</th>
+    <td>1/21</td>
+   </tr>
+   <tr>
+    <th scope="row">1956</th>
+    <td>10/19</td>
+   </tr>
+   <tr>
+    <th scope="row">1957</th>
+    <td>2/24. We have 2/22 there is no 2/24</td>
+   </tr>
+   <tr>
+    <th scope="row">1958</th>
+    <td>complete</td>
+   </tr>
+   <tr>
+    <th scope="row">1959</th>
+    <td>complete</td>
+   </tr>
+   <tr>
+    <th scope="row">1960</th>
+    <td>complete</td>
+   </tr>
+   <tr>
+    <th scope="row">1961</th>
+    <td>complete</td>
+   </tr>
+   <tr>
+    <th scope="row">1962</th>
+    <td>complete</td>
+   </tr>
+   <tr>
+    <th scope="row">1963</th>
+    <td>complete</td>
+   </tr>
+   <tr>
+    <th scope="row">1964</th>
+    <td>complete</td>
+   </tr>
+   <tr>
+    <th scope="row">1965</th>
+    <td>complete</td>
+   </tr>
+   <tr>
+    <th scope="row">1966</th>
+    <td>complete</td>
+   </tr>
+   <tr>
+    <th scope="row">1967</th>
+    <td>complete</td>
+   </tr>
+   <tr>
+    <th scope="row">1968</th>
+    <td>complete</td>
+   </tr>
+   <tr>
+    <th scope="row">1968-1985</th>
+    <td>See Gazette News</td>
+   </tr>
   <thead>
   </table>
    <table class="table table-dark">
