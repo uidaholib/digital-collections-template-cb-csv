@@ -10,7 +10,7 @@ credits: true
 
 {% include feature/jumbotron.html objectid="https://digital.lib.uidaho.edu/digital/iiif/cities/929/full/max/0/default.jpg" %}
 
-{% include feature/nav-menu.html sections="About the Collection;A Short History;Using the PDFs;Takedown Request;Missing Issues" %}
+{% include feature/nav-menu.html sections="About the Collection;A Short History;Using the PDFs;Takedown Request;Missing Issues of the Genesee News" %}
 
 ## About the Collection
 
@@ -52,7 +52,7 @@ If you have any issues with the material presented in this collection, please re
   </div>
 </div>
 
-## 
+## Missing Issues of the Genesee News
 <h2 class="text-center">Missing Issues of the Genesee News</h2>
 <h3 class="text-center">July 17, 1888 to August 6, 1968</h3>
 
