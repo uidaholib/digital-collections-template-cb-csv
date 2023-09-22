@@ -52,7 +52,7 @@ If you have any issues with the material presented in this collection, please re
   </div>
 </div>
 
-## Missing Issues, 
+## Missing Issues
 #### July 17, 1888 to August 6, 1968
 
 <div class="row">
