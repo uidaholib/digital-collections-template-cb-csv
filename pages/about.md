@@ -82,8 +82,8 @@ Regardless of whether we may be liable for such infringement under local country
 <table class="table table-dark">
   <thead>
   <tr>
-   <th scope="col">Missing Issues of the Genesee News, 7/17/1888-8/6/1968.</th>
-   <th scope+"col"></th>
+   <th scope="col">Missing Issues of the Genesee News</th>
+   <th scope="col">7/17/1888-8/6/1968</th>
  </tr>
  </thead>
  <tbody>
