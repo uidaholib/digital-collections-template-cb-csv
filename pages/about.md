@@ -10,7 +10,7 @@ credits: true
 
 {% include feature/jumbotron.html objectid="https://digital.lib.uidaho.edu/digital/iiif/cities/929/full/max/0/default.jpg" %}
 
-{% include feature/nav-menu.html sections="About the Collection;A Short History;Using the PDFs;Genesse News Copyright;Missing Issues" %}
+{% include feature/nav-menu.html sections="About the Collection;A Short History;Using the PDFs;Takedown Request;Missing Issues" %}
 
 ## About the Collection
 
@@ -43,7 +43,7 @@ To change the magnification of the document, click the arrow next to the + and â
 
 To move from page to page, click on the arrows at the top and bottom of the column on the right side of the page.  Clicking in the white space in this column above or below the small box will also move the entire page up or down.  You can also move the page using the page up or down keys on the keyboard.  
 
-**Takedown Request** 
+## Takedown Request 
 
 If you have any issues with the material presented in this collection, please reach out to Devin Becker at dbecker@uidaho.edu
 
@@ -52,7 +52,7 @@ If you have any issues with the material presented in this collection, please re
   </div>
 </div>
 
-<h2 class="text-center">Missing Issues of the Genesee News</h2>
+## <h2 class="text-center">Missing Issues of the Genesee News</h2>
 <h3 class="text-center">July 17, 1888 to August 6, 1968</h3>
 
 <div class="row">
