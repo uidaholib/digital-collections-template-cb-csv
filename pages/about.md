@@ -79,35 +79,19 @@ Regardless of whether we may be liable for such infringement under local country
 
 ### Missing Issues
 
-<table class="table table-bordered">
+<table class="table table-dark">
+  <thead>
   <tr>
-   <td colspan="2" >Missing Issues of the Genesee News, 7/17/1888-8/6/1968.
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-  </tr>
+   <th scope="col">Missing Issues of the Genesee News, 7/17/1888-8/6/1968.</th>
+   <th scope+"col"></th>
+ </tr>
+ </thead>
+ <tbody>
   <tr>
-   <td><p style="text-align: right">
-1888</p>
-
-   </td>
-   <td colspan="2" >8/4 to 8/18; 9/22; 10/13 to 10/27.
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td><p style="text-align: right">
+   <th scope="row">1</th>
+   <td>1888</td>
+   <td>8/4 to 8/18; 9/22; 10/13 to 10/27</td>
 1889</p>
-
    </td>
    <td>complete 
    </td>
