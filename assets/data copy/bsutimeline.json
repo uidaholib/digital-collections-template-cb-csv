@@ -1,0 +1,40 @@
+---
+# generate time-focused json data suitable for TimelineJS.
+# includes all items in metadata that have a "date" field filled.
+# current using relative_url due to jekyll bug, should be absolute_url in production!
+---
+{%- assign items = site.data.bsutimeline -%}
+
+{
+    "title": {
+        "media": {
+          "url": "https://www.lib.uidaho.edu/blackhistory/objects/inside-bsu_1971-03-17.jpg",
+          "caption": "A Look Inside the BSU",
+          "credit": "A Look Inside the BSU"
+        },
+        "text": {
+          "headline": "A History of the Black Student Union",
+          "text": "The events, people, and spaces that define the history of the Black Student Union on the campus of the University of Idaho. Curated by Sara Szobody."
+        }
+    },
+    "events": [
+      {% for item in items %}{
+        "media": {
+          "url": "{{ 'https://www.lib.uidaho.edu/blackhistory/objects/small/' | append: item.objectid | append: '_sm.jpg' }}",
+          "caption": {{ item.headline | jsonify }},
+          "link": "{{ '/items/' | append: item.objectid | append: '.html' | relative_url }}"
+        },
+        "start_date": { 
+          {% if item.date contains '-' %}{% assign dates = item.date | strip | split: '-' %}
+          "month": "{{ dates[1] }}",
+          "day": "{{ dates[2] }}",
+          "year": "{{ dates[0] }}"{% elsif item.date contains '/' %}"year": "{{ item.date | strip | split: '/' | last }}"{% else %}
+          "year": "{{ item.date }}"{% endif %}
+        },
+        "text": {
+          "headline": {{ item.headline | jsonify }}{% if item.description %},
+          "text": {{ item.description | jsonify }}{% endif %}
+        }
+      }{% unless forloop.last %},{% endunless %}{% endfor %}
+    ]
+}

@@ -1,0 +1,39 @@
+---
+# generate time-focused json data suitable for TimelineJS.
+# includes all items in metadata that have a "date" field filled.
+# current using relative_url due to jekyll bug, should be absolute_url in production!
+---
+{%- assign items = site.data.tasbytimeline | where_exp: 'item','item.objectid' | where_exp: 'item', 'item.date' -%}
+{
+    "title": {
+        "media": {
+          "url": "https://www.lib.uidaho.edu/blackhistory/objects/small/arg-1968-12-17_p2-tasby-darkerside_sm.jpg",
+          "caption": "The Darker Side a column by Joseph Tasby.",
+          "credit": "The Argonaut"
+        },
+        "text": {
+          "headline": "Joseph Tasby in The Argonaut",
+          "text": "Clippings from the Argonaut featuring Joseph Tasby including Tasby's column, The Darker Side, and letters to the editor in response to Tasby."
+        }
+    },
+    "events": [
+      {% for item in items %}{
+        "media": {
+          "url": "{{ item.image_small | default: item.image_thumb | default: item.object_location | relative_url }}",
+          "caption": {{ item.title | jsonify }},
+          "link": "{{ '/items/' | append: item.objectid | append: '.html' | relative_url }}"
+        },
+        "start_date": { 
+          {% if item.date contains '-' %}{% assign dates = item.date | strip | split: '-' %}
+          "month": "{{ dates[1] }}",
+          "day": "{{ dates[2] }}",
+          "year": "{{ dates[0] }}"{% elsif item.date contains '/' %}"year": "{{ item.date | strip | split: '/' | last }}"{% else %}
+          "year": "{{ item.date }}"{% endif %}
+        },
+        "text": {
+          "headline": {{ item.title | jsonify }}{% if item.description %},
+          "text": {{ item.description | jsonify }}{% endif %}
+        }
+      }{% unless forloop.last %},{% endunless %}{% endfor %}
+    ]
+}
