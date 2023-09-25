@@ -4,27 +4,14 @@ layout: page
 ---
 {%- assign items = site.data[site.metadata] | where_exp: 'item','item.objectid' -%}
 <div class="row">
-
-  <div class="col-md-8">
-
-    {% include index/description.html %}
-    {% include index/carousel.html title="Sample Items" %}
-    
+  <div class="col-md-8 offset-md-2">
+    {% include feature/video.html objectid="https://youtu.be/-hZztmsRxsA" %}
   </div>
-  <div class="col-md-4">  
-
-    {% include index/time.html %}
-
-    {% include index/featured-terms.html field="subject" title="Top Subjects" btn-color="primary" %}
-
-    {% include index/featured-terms.html field="location" title="Locations" btn-color="outline-secondary" %}
-    
-    {% include index/objects.html %}
-
-  </div>
-  <div class="col-md-12">
-
-    {% include index/data-download.html %}
+</div>
+<div class="row">
+  <div class="col-md-6 px-5 mb-5">
+    <p class="h4"><b><i>Black History @ the University of Idaho</i></b> is an ongoing collaboration between the <a href="https://www.uidaho.edu/ed/about/spaces/bhrl" target="_blank">Black History Research Lab</a> and the <a href="https://lib.uidaho.edu/" target="_blank">University of Idaho Library</a> that examines the history and contribution of Black students, faculty, staff, and administrators at the University of Idaho.</p>
+    <p class="h4 mt-3">Directed by <a href="https://www.uidaho.edu/ed/lc/faculty/sydney-freeman">Dr. Sydney Freeman Jr.</a>, this digital exhibit space and the regular physical exhibits that accompany and enhance the project seek to uncover untold histories and highlight the accomplishments of Black individuals on campus. </p>
 
   </div>
 
