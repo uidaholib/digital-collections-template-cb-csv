@@ -3,7 +3,9 @@ title,Title,,,DCTERMS.title,headline
 creator,Creator,,,DCTERMS.creator,creator
 archival date,Date Created
 date,,,,DCTERMS.date,dateCreated
+interviewee,Interviewee,,,
 description,Description,,,DCTERMS.description,description
+transcriber,Transcriber,,,
 subject,Subjects,true,,DCTERMS.subject,keywords
 location,Location,,,,contentLocation
 latitude,Latitude,,,,
