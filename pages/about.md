@@ -10,7 +10,7 @@ credits: true
 
 {% include feature/jumbotron.html objectid="https://digital.lib.uidaho.edu/digital/iiif/cities/929/full/max/0/default.jpg" %}
 
-{% include feature/nav-menu.html sections="About the Collection;A Short History;Using the PDFs;Takedown Request;Missing Issues" %}
+{% include feature/nav-menu.html sections="About the Collection;A Short History;Using the PDFs;Feedback" %}
 
 ## About the Collection
 
@@ -29,7 +29,7 @@ _Please address all comments to Earl H. Bennett, City Historian, P.O. Box 157, G
 The following paragraph of the early history of the <em>Genesee News</em> was abstracted from a paper by Keith Armstrong in 1934.  Mr. Armstrong had worked briefly for the News.  
 
 <p class="indent">
-"The first issue of the <em>Genesee Advertiser</em> was published on August 4,1888 with J.L.G Mays as editor.  It was a 6-column handset paper.  It followed quickly on the heels of the arrival of the Spokane and Palouse Railroad into New Genesee in April of that year.  By November the paper had changed hands with E. R. Wiswall in charge. Mr. Wiswall left for Spokane and the paper was under the care of  T. Barton by April 1889 and again had changed hands to C. C. Neal by October of that year.  The paper’s name was changed to the <em>Genesee Recorder</em> with C. M. Poor and R. W. Jenkins in charge by May 1891 with Mr., Poor taking over full control after just a few weeks.  By May of 1892, Charles Power and J. W. Hopp had taken over.  The paper became the <em>Genesee News</em> on June 17, 1892 and the size increased from six to seven columns.  It changed back to six columns and was enlarged to 8 pages on Oct. 5, 1894.  By 1895 an entire page was devoted to national and world news.  The first halftone appeared on January 17, 1901.  By 1902, Mr. Power was in charge of the paper.  On November 5, 1909, H. W. Brune was the owner as Mr. Power sold out and moved to Spokane.  P. C. McCreary took over on Jan. 3, 1913.    An interim director, Arthur H. Potsch managed the paper for a while in 1926 and E. D Pederson was the new owner by November 1928."
+"The first issue of the <em>Genesee Advertiser</em> was published on August 4, 1888 with J.L.G Mays as editor.  It was a 6-column handset paper.  It followed quickly on the heels of the arrival of the Spokane and Palouse Railroad into New Genesee in April of that year.  By November the paper had changed hands with E. R. Wiswall in charge. Mr. Wiswall left for Spokane and the paper was under the care of  T. Barton by April 1889 and again had changed hands to C. C. Neal by October of that year.  The paper’s name was changed to the <em>Genesee Recorder</em> with C. M. Poor and R. W. Jenkins in charge by May 1891 with Mr., Poor taking over full control after just a few weeks.  By May of 1892, Charles Power and J. W. Hopp had taken over.  The paper became the <em>Genesee News</em> on June 17, 1892 and the size increased from six to seven columns.  It changed back to six columns and was enlarged to 8 pages on Oct. 5, 1894.  By 1895 an entire page was devoted to national and world news.  The first halftone appeared on January 17, 1901.  By 1902, Mr. Power was in charge of the paper.  On November 5, 1909, H. W. Brune was the owner as Mr. Power sold out and moved to Spokane.  P. C. McCreary took over on Jan. 3, 1913.    An interim director, Arthur H. Potsch managed the paper for a while in 1926 and E. D Pederson was the new owner by November 1928."
 </p>
 
 Pederson would own the News until 1954 when the paper was purchased and published by William D. Roth, his wife, Jane and their son Bill. In August 1968 the Roths bought the Kendrick Gazette from William L. McCreary and announced that the Gazette and <em>Genesee News</em> would be merged under the banner of the Kendrick Gazette-News. William McCreary was the son of  P. C. McCreary who owned the News in 1913 and then moved to Kendrick to manage the Gazette. After William Roth died, his son Bill took over the paper.  He got out of the business for a while in 1985 selling the paper’s name and subscriber list to the Whitman-Latah Republic until that paper failed.  Bill restarted the Kendrick paper as the Gazette in 1987 and it finally closed for good in 1998.   
@@ -43,9 +43,9 @@ To change the magnification of the document, click the arrow next to the + and �
 
 To move from page to page, click on the arrows at the top and bottom of the column on the right side of the page.  Clicking in the white space in this column above or below the small box will also move the entire page up or down.  You can also move the page using the page up or down keys on the keyboard.  
 
-## Takedown Request 
+## Feedback 
 
-If you have any issues with the material presented in this collection, please reach out to Devin Becker at dbecker@uidaho.edu
+ If you are a copyright owner or otherwise have exclusive control over materials presently available through this collection and do not wish your materials to be available through this website, please let us know. To make a takedown request, please reach out to Devin Becker at dbecker@uidaho.edu.
 
 <div class="row">
   <div class="col-md-12 bs-linebreak">
