@@ -9,7 +9,7 @@ item-meta: true
 
     {% include item/breadcrumbs.html %}
     
-    <h2>{{ page.city }}, {{ page.county }} County</h3>
+    <h2 class="mb-3">{{ page.city }}, {{ page.county }} County, {{ page.date | split: '-' | first }}</h3>
 
     <div class="row justify-content-center">
 
