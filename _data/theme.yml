@@ -8,7 +8,7 @@
 #
 # featured image is used in home page banner and in meta markup to represent the collection
 # use either an objectid (from an item in this collect), a relative location of an image in this repo, or a full url to an image elsewhere
-featured-image: https://digital.lib.uidaho.edu/digital/iiif/cities/929/full/max/0/default.jpg
+featured-image: https://www.lib.uidaho.edu/digital/objects/genesee-news/genesee_feature.jpg
 # optional: add extra padding around collection title for a larger image feature. 
 home-title-y-padding: 10em # the margin from the top your title portion will appear.
 # optional: change position of background image, center, top, bottom
