@@ -3,4 +3,5 @@ date,Date,,,Date
 creator,Creator,,,
 subject,,true
 location,,true
+interviewer,Interviewer,true,,
 identifier,,,true,Identifier
