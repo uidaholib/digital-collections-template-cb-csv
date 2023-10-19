@@ -36,8 +36,11 @@ Materials in this collection may contain images, language, or other content that
 Support for this digitization project was provided by the Council on Library and Information Resources (CLIR) through the Recordings at Risk program. The University of Idaho Library Special Collections and Archives received a grant through this program to support the project *Unheard Voices: Digitizing the Oral Histories of Underrepresented Communities in Idaho.* 
 
 We chose three archival collections that contained audio or video recordings of oral history interviews: [MG 68 Rural Women's History Project](https://archiveswest.orbiscascade.org/ark:/80444/xv42414/), [MG 390 Lily Wai Committee Papers](https://archiveswest.orbiscascade.org/ark:/80444/xv54043/), and [MG 491 Hispanic Oral History Project Interviews](https://archiveswest.orbiscascade.org/ark:/80444/xv327325/). The digitized materials from these collections can be found in the corresponding digital collections: 
+
+- [Rural Women's History Project](https://www.lib.uidaho.edu/digital/rwhp/): Interviews with rural women in Latah, Benewah, Clearwater, Nez Perce, and Shoshone counties, Idaho, concerning the changing roles of rural women.
+- [Other Faces, Other Lives](https://www.lib.uidaho.edu/digital/otherfaces/): Interviews from the video project, *Other Faces, Other Lives: Asian Americans in Idaho* of eight 
+Asian-American families about their experiences living, working, and raising a family in Idaho.
 - [Hispanic Oral History Project Interviews](https://www.lib.uidaho.edu/digital/hohp/): 22 interviews of Hispanic immigrants and descendants who lived in Idaho.
-- [Other Faces, Other Lives](https://www.lib.uidaho.edu/digital/otherfaces): Interviews from the video project, *Other Faces, Other Lives: Asian Americans in Idaho* of eight Asian-American families about their experiences living, working, and raising a family in Idaho.
 
 These interviews offer a unique and important perspective on the experiences of minority communities living in a predominantly white and rural state throughout the 20th century. 
 
