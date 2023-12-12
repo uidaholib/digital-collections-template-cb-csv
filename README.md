@@ -1,5 +1,10 @@
 # digital-collections-template-cb-csv
 
+*Collections originally created in this repository have been migrated to our new templates.*
+Please see <https://github.com/uidaholib/base-digital-collections-template> for current work.
+
+-----------
+
 <https://www.lib.uidaho.edu/digital/>
 
 A highly customized version of [CollectionBuilder-CSV](https://github.com/CollectionBuilder/collectionbuilder-csv) used to generate University of Idaho Library Digital Collections.
